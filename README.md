@@ -1,5 +1,11 @@
 # ESP32 - Controle de Lâmpada por Palmas
 
+Equipe:
+- Rodrigo Bonifácio Conceição
+- Ruan Pablo de Lima Pereira
+- Vinicius Clemente Negherbon
+- Bianca Barp
+
 Projeto de Internet das Coisas desenvolvido com ESP32 para controle de uma lâmpada através de palmas, utilizando um sensor de som, comunicação Wi-Fi e protocolo MQTT.
 
 ## Objetivo
